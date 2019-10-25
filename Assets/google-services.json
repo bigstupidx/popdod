@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "724701267691",
+    "firebase_url": "https://popdod-1768c.firebaseio.com",
+    "project_id": "popdod-1768c",
+    "storage_bucket": "popdod-1768c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724701267691:android:81908bc01c8ad4b5",
+        "android_client_info": {
+          "package_name": "com.cheeseonthefish.popdod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724701267691-e5og5633ana1tcl516jpmkkpqfi6jqk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cheeseonthefish.popdod",
+            "certificate_hash": "c0bde18b692caa0a58a72c0d3958acb313c0ab8a"
+          }
+        },
+        {
+          "client_id": "724701267691-iqocvi07vdf3r2q1anhnj71e4d1ko6kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnyMn0onHVXHtXLzhjzf4X1jyThB4JrnI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724701267691-iqocvi07vdf3r2q1anhnj71e4d1ko6kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://popdod-1768c.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">724701267691</string>
+  <string name="google_storage_bucket" translatable="false">popdod-1768c.appspot.com</string>
+  <string name="project_id" translatable="false">popdod-1768c</string>
+  <string name="google_api_key" translatable="false">AIzaSyCnyMn0onHVXHtXLzhjzf4X1jyThB4JrnI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCnyMn0onHVXHtXLzhjzf4X1jyThB4JrnI</string>
+  <string name="google_app_id" translatable="false">1:724701267691:android:81908bc01c8ad4b5</string>
+  <string name="default_web_client_id" translatable="false">724701267691-iqocvi07vdf3r2q1anhnj71e4d1ko6kk.apps.googleusercontent.com</string>
+</resources>
